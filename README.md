@@ -1,6 +1,6 @@
 # wav2mp3
 Convert wav to mp3  
-it gets wav folder to generate mp3 and move wav to trash bin
+generate mp3 from input folder and move wav to trash bin
 
 
 # Result   
