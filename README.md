@@ -24,7 +24,7 @@ python wav2mp3.py
 
 
 # pyinstaller build  
-pyinstaller --onefile main.py  -n wav2mp3
+pyinstaller --onefile wav2mp3.py
 
 
 
