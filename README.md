@@ -1,6 +1,6 @@
 # wav2mp3
 Convert wav to mp3  
-generate mp3 from input folder and move wav to trash bin
+generate mp3 from input folder and remove wav to trash bin
 
 
 # Result   
@@ -10,9 +10,9 @@ after run
 ![result](doc/screenshot_2.png)     
 
 # Method
-1. place wav folder into input folder   
+1. place wav folder into "input" folder   
 2. run wav2mp3.exe   
-3. it generate mp3 and move wav to trash bin   
+3. it generate mp3 based on input folder and it remove wav to trash bin
 
 # Required environment to run      
 pip install pyinstaller    
