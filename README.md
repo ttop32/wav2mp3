@@ -26,7 +26,7 @@ python wav2mp3.py
 
 
 # pyinstaller build  
-pyinstaller --onefile --add-data="ffmpeg/*;ffmpeg/" wav2mp3.py
+pyinstaller --onefile wav2mp3.py
 
 
 # Acknowledgement and References    
