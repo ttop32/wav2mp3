@@ -4,7 +4,9 @@ generate mp3 from input folder and move wav to trash bin
 
 
 # Result   
+before run   
 ![result](doc/screenshot_1.png)    
+after run  
 ![result](doc/screenshot_2.png)     
 
 # Method
