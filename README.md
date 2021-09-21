@@ -15,8 +15,8 @@ generate mp3 from input folder and move wav to trash bin
 # Required environment to run      
 pip install pyinstaller    
 pip install glob2  
-pip install pydub  
-pip install parmap  
+pip install pydub   
+pip install tqdm  
 pip install Send2Trash  
 
 # run python
